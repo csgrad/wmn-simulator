@@ -1,0 +1,8 @@
+- Decide on one buffer or many
+	- Potentially use a busy / free state for the MRs
+- Implement the Requirement Tracking for each link for FS
+- Implement FS portion
+- Implement the switch functions
+
+- Implement Priority Queue for Destinations in MRs
+- For load balancing, select the links with lowest requirements to other routers so they arent denied service and continue to service the highest demand
