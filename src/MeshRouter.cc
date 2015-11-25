@@ -12,6 +12,7 @@
 #define MESHROUTER_CC
 
 #include "MeshRouter.h"
+#include <cstdlib>
 
 void MeshRouter::display()
 {

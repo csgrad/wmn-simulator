@@ -29,6 +29,4 @@ class Matrix
   std::vector <Link> LS;          //all the links
 };
 
-#include "Matrix.cc"
-
 #endif

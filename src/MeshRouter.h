@@ -47,6 +47,4 @@ class MeshRouter
   bool gateway, permission, busy;
 };
 
-#include "MeshRouter.cc"
-
 #endif

@@ -106,6 +106,4 @@ class Simulation
   double low_delay;       //under-estimate using only success delays
 };
 
-#include "Simulation.cc"
-
 #endif

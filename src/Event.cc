@@ -14,15 +14,6 @@
 #include "Event.h"
 
 /*
- * Determine which Event has a lower time
- * for the priority queue (note a > b causes lowest numbers to be on top of queue)
- */
-bool operator<(const Event &a, const Event &b)
-{
-  return a.getTime() > b.getTime();
-}
-
-/*
  * Display the event
  */
 void Event::display()

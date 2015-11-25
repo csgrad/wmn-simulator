@@ -2,6 +2,7 @@
 #define CLIQUE_CC
 
 #include "Clique.h"
+#include <cstdlib>
 
 /*
  * Returns the Gain for the Clique

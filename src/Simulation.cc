@@ -12,6 +12,7 @@
 #define SIMULATION_CC
 
 #include "Simulation.h"
+#include <stdio.h>
 
 /*
  * Main Function
@@ -665,7 +666,7 @@ void Simulation::pause()
 {
   std::cout << "Press any key to continue...";
   std::cin.ignore(0,'\n');
-  std::getchar();
+  getchar();
 }
 
 #endif

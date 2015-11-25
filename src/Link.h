@@ -29,6 +29,4 @@ class Link
   int id, source_id, destination_id, requirement;
 };
 
-#include "Link.cc"
-
 #endif

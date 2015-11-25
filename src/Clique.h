@@ -30,6 +30,4 @@ class Clique
   std::vector<int> LS;
 };
 
-#include "Clique.cc"
-
 #endif
